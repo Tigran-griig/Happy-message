@@ -1,9 +1,10 @@
 import React from 'react';
+import Message from "./Components/Message";
 
 function App() {
   return (
     <div className="App">
-<h1>barev </h1>
+        <Message/>
     </div>
   );
 }
